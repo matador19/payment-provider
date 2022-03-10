@@ -1,0 +1,27 @@
+body{
+    font-family: 'Secular One', sans-serif;
+    background-color: dimgray;
+}
+button{
+    display: inline-block;
+    margin:0 20px;
+}
+h2{
+    text-align: center;
+}
+
+#cont{
+    margin-top: 20px;
+    padding-bottom: 10px;
+      box-shadow: 10px 10px 10px 10px rgba(228, 16, 16, 0.83);
+    transition: 0.3s;
+    border-radius: 10px;
+    background-color: beige;
+}
+#accept{
+    background-color: blue;
+}
+
+#decline{
+    background-color: crimson;
+}
